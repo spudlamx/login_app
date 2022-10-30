@@ -4,9 +4,8 @@ This web app is a login system that I created to be able to use with different a
 
 My pupose for writing this software is to learn Django, and write a web app to gain experience with it.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Rlsg6cDSYvI)
 
 # Web Pages
 
