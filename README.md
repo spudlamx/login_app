@@ -21,7 +21,7 @@ My pupose for writing this software is to learn Django, and write a web app to g
 
 The tool I used to write this was Virtual Studio Code.
 
-Writen in python using the Django library.
+Writen in python using the Django library, and Html.
 
 # Useful Websites
 
