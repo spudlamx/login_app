@@ -32,4 +32,4 @@ Writen in python using the Django library, and Html.
 
 * Create an option to delete an account.
 * Style the web pages.
-* Ensure two acccounts can't have the same username.# auth_app
+* Ensure two acccounts can't have the same username.
